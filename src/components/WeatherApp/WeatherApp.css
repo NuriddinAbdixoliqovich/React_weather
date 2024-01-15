@@ -1,0 +1,17 @@
+.container {
+    background-color: #F4D03F;
+    background-image: linear-gradient(132deg, #F4D03F 0%, #16A085 100%);
+}   
+
+.cityInput{
+    outline: none;
+    border: none;
+    background-color: #ebfffc;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.search-icon{
+    background-color: #ebfffc;
+    cursor: pointer;
+}
